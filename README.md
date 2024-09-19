@@ -15,5 +15,5 @@ To receive GitHub events, you need to configure a Webhook on your GitHub reposit
 4. Set the Payload URL to http://your_ngork_address/webhook.
 5. Choose application/json as the Content Type.
 6. Select events to trigger the webhook (e.g., push, pull request, merge).
-7. Add webhook
+7. Add webhook 
 
